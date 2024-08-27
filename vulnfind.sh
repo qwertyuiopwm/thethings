@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Praise allah that we will find our target"
+echo "Attempting to find full-permission subdirectories."
 
 check_permissions() {
   local dir="$1"
